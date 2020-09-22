@@ -11,6 +11,8 @@ public class test1 {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.youtube.com/");
+        String str = "good luck buddy";
+        // this is a test line
 
     }
 
